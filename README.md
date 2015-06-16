@@ -108,6 +108,9 @@ _Techniques for secure communication in the presence of adversaries, an increasi
 
 _Machine instructions, assembly language, system organization, etc._
 
++ [From Nand to Tetris](http://www.nand2tetris.org/course.php) - Build a modern computer system, starting from first principles.
+
+_Go Deeper (Optional):_
 + [University of Washington: Hardware/Software Interface](https://www.coursera.org/course/hwswinterface) - Examines key computational abstraction levels below modern high-level languages -- what really happens when software runs. Uses C.
 
 + [Princeton University: Computer Architecture](https://www.coursera.org/course/comparch) - Hardware and microprocessor design. May need to review: Digital logic, Microprocessors, Memory.
