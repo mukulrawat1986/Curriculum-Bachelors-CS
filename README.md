@@ -67,7 +67,7 @@ _One of the most important aspects of CS education. Algorithm design methods and
 
 + [Khan Academy's Intro to Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - A great place to start.
 
-+ [MIT OpenCourseware: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) - Covers common algorithms, algorithmic paradigms, and data structures and has lecture videos, and problem sets with solutions. Requires a textbook (I found it for about $30 used). _Requires familiarity with Python._
++ [MIT OpenCourseware: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) - Covers common algorithms, algorithmic paradigms, and data structures and has lecture videos, and problem sets with solutions. Requires a [textbook](http://www.amazon.com/gp/offer-listing/8120340078/ref=tmm_pap_used_olp_0?ie=UTF8&condition=used&sr=&qid=) (I found it for about $30 used). _Requires familiarity with Python._
 
 * _followed by_ [MIT OpenCourseware: Design and Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/index.htm) - More advanced coverage of algorithms. The course is very barebones, and has no videos. Requires the same textbook as the above class. _Requires familiarity with Python._
 
