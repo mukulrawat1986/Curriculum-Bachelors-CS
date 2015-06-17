@@ -58,6 +58,14 @@ _"Mathematical structures that are fundamentally discrete rather than continuous
 
 + [MIT OpenCourseware: Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) - Elementary discrete mathematics course with lecture videos and readings all available through the site.
 
+# Data Structures:
+
+_"Ways of organizing data in a computer so that it can be used efficiently."_
+
++ [Saylor CS201: Elementary Data Structures](https://learn.saylor.org/course/cs201) - A collection of free resources that cover the basics of data structures.
++ [Geeks for Geeks: Data Structures](http://www.geeksforgeeks.org/data-structures/) - Series of articles and quizzes covering specific types of data structures.
++ **Reference:** [Wikipedia List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
+
 ***
 **Learn the stuff above before starting these topics!**
 
