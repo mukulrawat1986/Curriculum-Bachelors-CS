@@ -18,6 +18,7 @@ _The basic concepts of computer science: object-oriented programming, control st
 
 + [Harvard University's CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) - Probably the most well supported MOOC ever. David Malan is a fantastic teacher,  and the class is elegantly put together with lots of videos, examples, and automatically graded assignments. Uses C++.
 
+_Optional:_
 + [Automate the Boring Stuff by Al Sweigart](https://automatetheboringstuff.com/) - You are going to need to be familiar with Python, this course will introduce you to Python and teach you basic automation. Uses Python.
 
 # Miscellaneous Skills:
@@ -39,7 +40,7 @@ Programming requires a lot of typing. A small investment in typing skills will s
 ###_Programming Languages:_
 You should be learning the fundamentals of programming through the other courses here, but sometimes you may need to pick up the syntax of a particular language.
 
-+ [CodeAcademy](http://www.codecademy.com/learn) - Quick, basic lessons in a number of popular languages and systems.
++ [codecademy](http://www.codecademy.com/learn) - Quick, basic lessons in a number of popular languages and systems.
 
 + [Michael Lee's Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#programming-languages) - A bunch of material for a bunch of languages.
 
@@ -77,7 +78,8 @@ _One of the most important aspects of CS education. Algorithm design methods and
 
 + [MIT OpenCourseware: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) - Covers common algorithms, algorithmic paradigms, and data structures and has lecture videos, and problem sets with solutions. Requires a [textbook](http://www.amazon.com/gp/offer-listing/8120340078/ref=tmm_pap_used_olp_0?ie=UTF8&condition=used&sr=&qid=) (I found it for about $30 used). _Requires familiarity with Python._
 
-* _followed by_ [MIT OpenCourseware: Design and Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/index.htm) - More advanced coverage of algorithms. The course is very barebones, and has no videos. Requires the same textbook as the above class. _Requires familiarity with Python._
+_Optional:_
+* [MIT OpenCourseware: Design and Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/index.htm) - More advanced coverage of algorithms. The course is very barebones, and has no videos. Requires the same textbook as the above class. _Requires familiarity with Python._
 
 + [The Algorithm Design Manual by S. Skiena](http://www.amazon.com/gp/product/1849967202?keywords=algorithms&qid=1360133842&ref_=sr_1_5&s=books&sr=1-5) (book) - It's supposed to be a more approachable overview of algorithms. It's a bit pricey though ($80).
 + **Practice**: Coding challenges to improve your understanding of algorithms - [HackerRank](https://www.hackerrank.com/), [TopCoder](http://www.topcoder.com/), [CodingBat](http://codingbat.com/), and [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
@@ -90,7 +92,7 @@ _Relational systems, data manipulation, query language (SQL), relational algebra
 
 + [SQLZoo: SQL Tutorial](http://sqlzoo.net/) - SQL is a standard language for accessing databases.
 
-**Non-Relational Databases**: Get familiar with modern databases and NoSQL. [Getting Started with MongoDB](http://docs.mongodb.org/getting-started/shell/) and [M101P: MongoDB for Developers](https://university.mongodb.com/courses/M101P/about), [Redis: Simple Twitter Clone Tutorial](http://redis.io/topics/twitter-clone), optional: [Seven Databases in Seven Weeks by J. Wilson](http://www.amazon.com/gp/offer-listing/1934356921/ref=dp_olp_all_mbc?ie=UTF8&condition=all) (~$16 used).
+**Non-Relational Databases** _(Optional)_: Get familiar with modern databases and NoSQL. [Getting Started with MongoDB](http://docs.mongodb.org/getting-started/shell/) and [M101P: MongoDB for Developers](https://university.mongodb.com/courses/M101P/about), [Redis: Simple Twitter Clone Tutorial](http://redis.io/topics/twitter-clone), optional: [Seven Databases in Seven Weeks by J. Wilson](http://www.amazon.com/gp/offer-listing/1934356921/ref=dp_olp_all_mbc?ie=UTF8&condition=all) (~$16 used).
 
 # Web Development:
 
@@ -131,6 +133,7 @@ _Operating system management of processes, I/O, memory, and file systems. May be
 
 + [Saylor CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) - Detailed analysis of the major components of a modern operating system curated from free sources around the internet.
 
+_Optional:_
 + [Modern Operating Systems by A. Tennenbaum](http://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/0136006639/ref=sr_1_2?s=books&ie=UTF8&qid=1433189342&sr=1-2&keywords=Modern+Operating+Systems) (book) - THE textbook on operating systems. The new edition is ~$100 used, the old edition is ~$10.
 
 + [OSDev.org Tutorials](http://wiki.osdev.org/Tutorials) - Learn by doing. Some tutorials for building simple OS functions. The rest of OSDev.org is a great reference in general.
